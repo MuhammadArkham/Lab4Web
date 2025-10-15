@@ -1,12 +1,11 @@
 # Praktikum 4 
 
-## Identitas
 Nama  : [Muhammad Arkhamullah Rifai Asshidiq]  
 NIM   : [312410545]  
 Kelas : [TI.24.A5]  
 Mata Kuliah:[Pemrograman Web 1]  
 Dosen Pengampu:[Agung Nugroho, S.Kom., M.Kom]  
-[Universitas Pelita Bangsa]
+
 ---
 ## Pertanyaan
 
